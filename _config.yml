@@ -1,7 +1,7 @@
 name: Roguetaino
 favicon: null
-layout_spectrum: 0.24639
-typography_spectrum: 0.09838
+layout_spectrum: 0.49368
+typography_spectrum: 1
 title: Roguetaino Resistance
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0a0d14'
-    - '#5e7086'
-    - '#3a3b3f'
-    - '#fffeff'
-    - '#a6a29f'
-  brandStrength: 0.4476881097070873
+    - '#0c110b'
+    - '#8aa4bf'
+    - '#b6dbf8'
+    - '#373632'
+    - '#f4f5f5'
+  brandStrength: 0.5625
   lightness: 0.43244253122247756
   saturation: 0.9927992527373135
   rhythmicContrast: 0.515702503034845
